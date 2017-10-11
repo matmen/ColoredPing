@@ -8,4 +8,4 @@ main: main.ColoredPING
 commands:
     event:
         description: Set Event MOTD
-        usage: 
+        usage: /event <message>
