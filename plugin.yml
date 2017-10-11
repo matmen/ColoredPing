@@ -1,0 +1,11 @@
+name: ColoredPING
+version: 0.1.7
+author: matmen
+website: compactnetwork.de
+
+main: main.ColoredPING
+
+commands:
+    event:
+        description: Set Event MOTD
+        usage: 
